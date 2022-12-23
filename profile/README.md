@@ -1,6 +1,6 @@
-# HealthyCare
+# Healthy Care
 
-## Hi there 👋
+
 Organização destinada para o compartilhamento das atividades do treinamento da Avanade em .Net C# + Angular.
 
 **Members**
