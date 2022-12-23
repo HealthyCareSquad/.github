@@ -1,12 +1,26 @@
+# HealthyCare
+
 ## Hi there 👋
+Organização destinada para o compartilhamento das atividades do treinamento da Avanade em .Net C# + Angular.
 
-<!--
+**Members**
 
-**Here are some ideas to get you started:**
+👨‍💻 [Gabriela Jesumary](https://github.com/Gabijesumary); <br>
+👩‍💻 [George Wanderson](https://github.com/GeorgeWanderson); <br>
+👩‍💻 [Karlessandra Lima](https://github.com/SandraLima03); <br>
+👩‍💻 [Maria Luisa Oliveira da Costa](https://github.com/maluhcosta); <br>
+👩‍💻 [Thainara Luciana](https://github.com/ThainaraCamargo); <br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Atividades 
+1. Criar uma API para agendamento de consultas em .NET C# com as seguintes informações:
+- Cadastro de beneficiário 
+- Cadastro de médico
+- Cadastro de hospital
+- Cadastro de especialidade médica
+- Configuração de disponibilidade médicos
+- Agendamento de consulta
+
+2. Criação do frontend em Angular para integração com a API
+
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/100864157/209261572-5e5e0b9d-3be9-4a21-a34a-a7c3034956fd.png">
+
